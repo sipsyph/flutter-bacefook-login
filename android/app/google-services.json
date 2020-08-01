@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784687055283",
+    "firebase_url": "https://bacefook-login.firebaseio.com",
+    "project_id": "bacefook-login",
+    "storage_bucket": "bacefook-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784687055283:android:773ff2a3949f193a240bc6",
+        "android_client_info": {
+          "package_name": "com.example.fblogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784687055283-n7996993pinbbnj5al7lai5gblfi7i1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzINSeUVCsMKi1S266sd55rP7xJV0qBHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784687055283-n7996993pinbbnj5al7lai5gblfi7i1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

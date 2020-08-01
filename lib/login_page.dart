@@ -35,6 +35,7 @@ class _LoginPageState extends State<LoginPage> {
                         isFacebookLoginIn = true;
                         successMessage =
                         'Logged in successfully.\nEmail : ${user.email}\nYou can now navigate to Home Page.';
+                        print('Email: '+user.email+' Photo: '+user.photoUrl+' Display name: '+user.displayName);
                       });
                     } else {
                       print('Error while Login.');

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-        <string name="app_name">flutter_login</string>
-        <string name="facebook_app_id">2432431656989926</string>
-        <string name="fb_login_protocol_scheme">fb2432431656989926</string>
+        <string name="app_name">bacefook login</string>
+        <string name="facebook_app_id">302261597499930</string>
+        <string name="fb_login_protocol_scheme">fb302261597499930</string>
 
 </resources>
